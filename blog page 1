@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Styling</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            font-size: 2em;
+            color: #4A4A4A;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #333;
+        }
+        p {
+            font-size: 1em;
+            color: #666;
+        }
+        .images {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .images img {
+            width: 30%;
+            margin: 0 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 1em;
+            color: white;
+            background-color: #333;
+            padding: 10px 0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>AM'S KITCHEN</h1>
+        <h2>LEARN FOOD STYLING IN ONLY 10 DAYS!</h2>
+        <p>VISIT MY BLOG AND LEARN FOOD STYLING THE EASY WAY!</p>
+        
+        <div class="images">
+            <img src="burger.jpg" alt="Delicious Burger">
+            <img src="snacks.jpg" alt="Snacks on a Plate">
+            <img src="pasta.jpg" alt="Pasta Dish">
+        </div>
+
+        <footer>
+            AM'sgreatsite.com
+        </footer>
+    </div>
+
+</body>
+</html>
