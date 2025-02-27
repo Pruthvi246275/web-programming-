@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Potato Leek Soup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            font-size: 36px;
+            color: #8B6F4C; /* Gold-like color */
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 70%; /* Responsive image */
+            border-radius: 8px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+            color: #6a4c93; /* Purple color */
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <h1>• POTATO LEEK SOUP</h1>
+    <img src="path_to_image.jpg" alt="Potato Leek Soup">
+    <p>
+        Eighteen years is long enough for a website to go without a potato leek soup recipe, don't you think? 
+        I've always been a bit torn about it — it’s thick, pale, and can be a little sleepy. And yet if there is 
+        any time of year that's going to bring out my cravings for filling and uncomplicated soup, it's this. 
+        If there’s any time of year when my nostalgia kicks in for the thick, hearty vegetable porridges I had in 
+        Ireland with brown bread and ale, it’s January. I'd happily act and eat like a slumbering bear in a childhood fairytale.
+    </p>
+</body>
+</html>
