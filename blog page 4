@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Culinary Journey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .text {
+            font-size: 24px;
+            color: hotpink;
+            margin-bottom: 20px;
+        }
+        .images {
+            display: flex;
+            justify-content: space-around;
+        }
+        .images img {
+            width: 45%;
+            border-radius: 8px;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
+            AS WE WRAP UP THIS CULINARY JOURNEY, REMEMBER THAT EVERY MEAL IS AN OPPORTUNITY TO CREATE MEMORIES, SHARE STORIES, AND EXPLORE NEW FLAVORS. WHETHER YOU'RE A SEASONED CHEF OR A CURIOUS BEGINNER, LET YOUR KITCHEN BE A CANVAS FOR CREATIVITY AND JOY. SO, GATHER YOUR LOVED ONES, EXPERIMENT WITH NEW INGREDIENTS, AND SAVOR EACH BITE. UNTIL NEXT TIME, KEEP YOUR FORKS READY AND YOUR TASTE BUDS ADVENTUROUS; THERE'S ALWAYS A NEW DISH WAITING TO BE DISCOVERED. HAPPY COOKING!
+        </div>
+        <div class="images">
+            <img src="path-to-your-image1.jpg" alt="Baked Good 1">
+            <img src="path-to-your-image2.jpg" alt="Baked Good 2">
+        </div>
+        <footer>
+            &copy; 2023 Culinary Adventures
+        </footer>
+    </div>
+</body>
+</html>
