@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Lemon Curd Tart Recipe</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #d8a562; /* Gold color */
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #555;
+            margin-top: 15px;
+            font-family: 'Georgia', serif;
+            font-style: italic; /* To emphasize the style */
+            color: #8a5c9f; /* Light purple color */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Classic Lemon Curd Tart</h1>
+    <img src="your-image-url.jpg" alt="Classic Lemon Curd Tart">
+    <p>You might be asking yourself, Deb, why are you publishing a lemon tart recipe when the greatest lemon tart of all time already exists on your site? Okay, I'm embellishing a little, but I do really love the whole lemon tart and its sister recipe, the whole lemon bars in the Smitten Kitchen Cookbook every bit as much as you — the simplicity, the complexity, the surprise of it all.</p>
+</div>
+
+</body>
+</html>
