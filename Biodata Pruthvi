@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+          margin: 20px;
+       }
+       h1, h2 {
+            color: #333;
+        }
+        .personal-info, .education, .hobbies, .languages {
+            margin-bottom: 20px;        }
+    </style>
+</head>
+<body>
+
+    <h1>Biodata</h1>
+
+    <div class="personal-info">
+       <h2>Personal Information</h2>
+        <p><strong>Name:</strong> Pruthvi Mahajan</p>
+        <p><strong>Date of Birth:</strong> 06/06/2006</p>
+        <p><strong>Address:</strong>Bhoomi Orabelle near SB PATIL PUBLIC SCHOOL,Ravet. </p>
+        <p><strong>State:</strong> Maharashtra</p>
+        <p><strong>Phone Number:</strong> +91 9537168824</p>
+        <p><strong>Nationality:</strong> Indian</p>
+        <p><strong>Email Address:</strong> pruthvimahajan711@gmail.com</p>
+    </div>
+
+    <div class="about-me">
+        <h2><u><em>About Me</u></em></h2>
+<p>My name is Pruthvi Mahajan, and I am currently pursuing a Bachelor’s degree in Computer Science Engineering. I have always been fascinated by technology and its ability to shape the future, which led me to pursue this field. With a keen interest in programming, problem-solving, and innovation, I aim to develop solutions that can positively impact the world.
+
+    Outside of academics, I am passionate about drawing and sketching. I find these creative outlets help me unwind and express myself. Whether it's sketching portraits or creating abstract designs, I enjoy exploring new artistic ideas. Additionally, I have a deep love for music, and listening to songs is something that helps me relax and stay focused during my studies.
+    
+    Through my journey in both computer science and my personal hobbies, I strive to maintain a balanced life, where creativity and technical skills go hand in hand. </p>   </div>
+   <div class="education">
+        <h2><u><em>Formal Education</u></em></h2>
+        <table border="1" cellpadding="10"
+                    <tr>
+               <th>Examination</th>
+               <th>Institute & Board</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>B.Tech CSE</td>
+                <td>Pimpri Chinchwad University, Pune, NA</td>
+                <td>9.1 SGPA</td>
+            </tr>
+            <tr>
+                <td>Higher Secondary</td>
+                <td>SB PATIL PUBLIC SCHOOL,RAVET</td>
+                <td>92%</td>
+            </tr>
+            <tr>
+                <td>Secondary</td>
+                <td>ST.Anns School,Ahemdabad</td>
+                <td>82%</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="hobbies">
+        <h2><u><em>Hobbies</em></u></h2>
+        <ul>
+            <li>Painting</li>
+            <li>Sketching</li>
+            <li>Swimming</li>
+            <li>Listening to songs</li>
+        </ul>
+        </div>
+        <div class="languages">
+            <h2><u><em>Languages known</em></u></h2>
+            <ul>
+                <li>Marathi</li>
+                <li>Hindi</li>
+                <li>English</li>
+                <li>French</li>
+                <li>Gujarati</li>
+            </ul>
+             </div>
+</body>
+</html>
